@@ -8,3 +8,4 @@ kibana:7.17.3
 logstash:7.17.3
 mongo:4
 minio/minio
+openjdk:8
