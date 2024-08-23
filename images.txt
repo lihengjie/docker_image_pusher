@@ -3,6 +3,4 @@
 --platform=linux/aarch64  elasticsearch:7.17.19
 --platform=linux/aarch64  docker.elastic.co/kibana/kibana:7.17.19
 --platform=linux/aarch64  logstash:7.17.19
---platform=linux/aarch64  apache/rocketmq:4.9.6
---platform=linux/aarch64  apacherocketmq/rocketmq-dashboard:1.0.0
 --platform=linux/aarch64  xuxueli/xxl-job-admin:2.3.0
