@@ -1,1 +1,1 @@
---platform=linux/aarch64  apache/rocketmq:4.9.6
+docker pull candice0630/rocketmq:5.0.0-alpine
