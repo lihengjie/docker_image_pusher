@@ -1,6 +1,1 @@
---platform=linux/aarch64  mysql:8.0.30
---platform=linux/aarch64  redis:7.0.4
---platform=linux/aarch64  elasticsearch:7.17.19
---platform=linux/aarch64  docker.elastic.co/kibana/kibana:7.17.19
---platform=linux/aarch64  logstash:7.17.19
 --platform=linux/aarch64  apache/rocketmq:4.9.6
