@@ -1,1 +1,1 @@
-docker pull candice0630/rocketmq:5.0.0-alpine
+redis:latest
