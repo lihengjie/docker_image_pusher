@@ -1,4 +1,4 @@
-redis:7.0.4
+redis
 mysql
 openjdk:17.0.1-jdk
 nginx
