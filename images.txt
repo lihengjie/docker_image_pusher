@@ -3,3 +3,4 @@ mysql
 openjdk:17.0.1-jdk
 nginx
 apache/iotdb:1.3.3-standalone
+minio/minio
